@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "bootstrap": "^5.3.1",
+    "express": "^4.18.2",
+    "mongoose": "^8.0.0",
+    "node.js": "^0.0.1-security"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "shin_page",
+  "version": "1.0.0",
+  "main": "server.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
